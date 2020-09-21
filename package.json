@@ -1,0 +1,22 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "first_init_project",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EuZah/hexlet-js.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "EuZah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EuZah/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/EuZah/hexlet-js#readme"
+}
